@@ -17,6 +17,12 @@
 
         <h1>Hello I'm ADI !</h1>
         <h1>This is second commit by faizan</h1>
-   
+        <%for(int i=0;i<5;i++)
+        {
+            %>
+            <h2>adi</h2><%=i%>
+            <%
+        }
+%>   
     </body>
 </html>

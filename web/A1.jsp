@@ -1,7 +1,7 @@
 <%-- 
-    Document   : Faizanbranch.jsp
-    Created on : 27 Jan, 2021, 5:19:38 PM
-    Author     : Zishan Shaikh
+    Document   : A1
+    Created on : 28 Jan, 2021, 10:59:05 AM
+    Author     : ADITYA
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
@@ -12,6 +12,6 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Hello Branch of Faizan, Faizan branch exampleeee!</h1>
+        <h1>Hello World!</h1>
     </body>
 </html>

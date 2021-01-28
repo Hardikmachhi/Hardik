@@ -1,6 +1,6 @@
 <%-- 
-    Document   : Faizanbranch.jsp
-    Created on : 27 Jan, 2021, 5:19:38 PM
+    Document   : f
+    Created on : 27 Jan, 2021, 5:40:00 PM
     Author     : Zishan Shaikh
 --%>
 
@@ -12,6 +12,6 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Hello Branch of Faizan, Faizan branch exampleeee!</h1>
+        <h1>Hello F!</h1>
     </body>
 </html>
